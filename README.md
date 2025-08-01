@@ -9,7 +9,9 @@
 
 This version of the project is only for give an idea of one solution of a challenge from [Roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 
+<div aling="center">
 <sub>Warning: This project is a prototype, it still been a work in progress. </sub>
+</div>
 
 
 
