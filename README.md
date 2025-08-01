@@ -1,6 +1,6 @@
-# GitHub User Activity CLI
-
 <div align="center">
+  
+# GitHub User Activity CLI
   
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url]
@@ -9,9 +9,8 @@
 
 This version of the project is only for give an idea of one solution of a challenge from [Roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 
-<div aling="center">
-<sub>Warning: This project is a prototype, it still been a work in progress. </sub>
-</div>
+> [!WARNING]
+> This project is a prototype, it still been a work in progress.
 
 
 
