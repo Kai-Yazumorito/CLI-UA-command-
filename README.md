@@ -58,11 +58,11 @@ If you are looking to build a more advanced version of this project, you can con
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/Kai-Yazumorito/CLI-UA-command.svg?style=for-the-badge
-[contributors-url]: https://github.com/binarybrains-upiicsa/Hacktion/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/binarybrains-upiicsa/Hacktion.svg?style=for-the-badge
-[forks-url]: https://github.com/binarybrains-upiicsa/Hacktion/network/members
-[stars-shield]: https://img.shields.io/github/stars/binarybrains-upiicsa/Hacktion.svg?style=for-the-badge
-[stars-url]: https://github.com/binarybrains-upiicsa/Hacktion/stargazers
-[issues-shield]: https://img.shields.io/github/issues/binarybrains-upiicsa/Hacktion.svg?style=for-the-badge
-[issues-url]: https://github.com/binarybrains-upiicsa/Hacktion/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Kai-Yazumorito/CLI-UA-command-.svg?style=for-the-badge
+[contributors-url]: https://github.com/Kai-Yazumorito/CLI-UA-command-/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Kai-Yazumorito/CLI-UA-command-.svg?style=for-the-badge
+[forks-url]: https://github.com/Kai-Yazumorito/CLI-UA-command-/network/members
+[stars-shield]: https://img.shields.io/github/stars/Kai-Yazumorito/CLI-UA-command-.svg?style=for-the-badge
+[stars-url]: https://github.com/Kai-Yazumorito/CLI-UA-command-/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Kai-Yazumorito/CLI-UA-command-.svg?style=for-the-badge
+[issues-url]: https://github.com/Kai-Yazumorito/CLI-UA-command-/issues
